@@ -1,2 +1,4 @@
 vvce
-mysuru
+Mysuru
+vvce is cool
+Mysuru is cool
